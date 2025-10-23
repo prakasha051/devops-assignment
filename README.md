@@ -1,1 +1,0 @@
-# DevOps Assignment\nThis repo contains a Flask app, Helm chart, and CI/CD pipeline for EKS.\n
