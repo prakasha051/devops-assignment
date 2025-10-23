@@ -1,0 +1,7 @@
+replicaCount: 2
+image:
+  repository: REPLACE_WITH_DOCKERHUB_USER/flask-app
+  tag: latest
+service:
+  type: ClusterIP
+  port: 5000
